@@ -49,4 +49,23 @@ body {
   height: 35px;
   border-radius: 10px;
   border: none;
+  outline: none;
+}
+
+.search-btn {
+  border: none;
+  background-color: white;
+}
+
+.gifs-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.content-img {
+  width: 500px;
+  height: 400px;
+  object-fit: cover;
+  margin: 10px;
 }
