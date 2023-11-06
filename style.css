@@ -55,6 +55,7 @@ body {
 .search-btn {
   border: none;
   background-color: white;
+  cursor: pointer;
 }
 
 .gifs-content {
